@@ -681,16 +681,16 @@ enterprise-network-nat/
 │
 ├── README.md
 │
-├── topology/
-│   └── enterprise-network-topology.png
+├── topologi/
+│   └── topologi.png
 │
 ├── screenshots/
-│   ├── network-topology.png
-│   ├── ping-vlan10.png
-│   ├── ping-vlan20.png
-│   ├── static-nat-web-access.png
-│   ├── bgp-verification.png
-│   └── nat-translations.png
+│   ├── Topology.png
+│   ├── Test ping.png
+│   ├── Test web server.png
+│   ├── Show IP BGP.png
+│   ├── IP DHCP Pool.png
+│   └── IP NAT.png
 │
 └── simulation/
     └── enterprise-network-nat.pkt
