@@ -111,6 +111,8 @@ This segmentation helps organize the network based on the needs of devices and s
 
 The network topology consists of three routers, one switch, two servers, and several PCs.
 
+![Deskripsi foto](Topologi/topologi.png)
+
 Device configuration:
 
 | Device | Functions |
@@ -464,7 +466,8 @@ Test objectives:
 - Verify that the BGP neighbor is in the “Established” state.
 - Verify that prefix information can be exchanged.
   
-**Result:** The BGP connection has been successfully tested based on the tests conducted in the simulation.
+![Deskripsi foto](Sreenshot/ShowIPBGP.png)
+
 
 ## 5.2 NAT Overload Testing - VLAN 10 & VLAN 20
 
